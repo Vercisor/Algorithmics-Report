@@ -5,7 +5,7 @@ School of Electronics and Computer Science at the University of Southampton.
 
 This report is a Time Complexity analysis of different sorting algorithms. 
 It is divided up in three parts, each of which takes into consideration
-different algorithms written in Java and C++ language.
+different algorithms written in the Java and C++ language.
 
 ## 1. Java Sorting Algorithms
 
