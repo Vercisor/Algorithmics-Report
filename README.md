@@ -1,4 +1,4 @@
-# Mesuring Time Complexity - Report
+# Measuring Time Complexity - Report
 
 This was originally an assignment for the COMP1201-Algorithmics module taught at the 
 School of Electronics and Computer Science at the University of Southampton.
